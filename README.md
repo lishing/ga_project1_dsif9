@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Exploring climate data of Singapore
 
-### Overview
+### Overview of Project 1
 
 Our first module in DSI covers:
 - Basic statistics and probability
@@ -41,15 +41,13 @@ There are 2 datasets included in the [`data`](./data/) folder for this project. 
 
 #### Other Data
 
+##### Time series 
 * [Monthly Maximum Daily Rainfall](https://data.gov.sg/dataset/rainfall-monthly-maximum-daily-total)
-* Population growth
+* Population growth trend in Singapore
+* Immigration flow rate to Singapore
 
-
-
-**Make sure you cross-reference your data with your data sources to eliminate any data collection or data entry issues.**
-
-#### Additional Data
-You can also use other datasets for your analysis, make sure to cite the source when you are using them.
+##### Categorical
+* Size of existing artificial reservoirs, and the capacity for water catchment 
 
 ---
 
