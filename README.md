@@ -46,8 +46,10 @@ There are 2 datasets included in the [`data`](./data/) folder for this project. 
 * Population growth trend in Singapore
 * Immigration flow rate to Singapore
 
-##### Categorical
-* Size of existing artificial reservoirs, and the capacity for water catchment 
+##### Factual
+* Size of existing artificial reservoirs
+* Capacity for water catchment per artificial reservoir
+* YoY water demand in Singapore
 
 ---
 
