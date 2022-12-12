@@ -17,13 +17,12 @@ For our first project, we're going to analyze climate trends in Singapore. Clima
 
 ### Problem Statement
 
-1. Audience - who, what, how
-2. Data?
-3. Value to Audience - insights, decisions
-
-#### Background
+#### Summary of Study
 Water is one of the most essential resources to sustain lives. Due to its challenging environment and geographical limitations, water supply and sanitation are intricately linked to Singapore's planning and development efforts. One of the efforts is to build reservoirs to contain rainfall. As water demand is expected to double from 380 to 760 million gallons per day between 2010-2060, the government is planning on constructive more desalination plants.
 
+"It’s drought, not floods, S’pore should fear" -- 
+
+#### Role
 In this project, I am part of PUB's data science team. 
 
 This study and analysis aims to help my agency to understand the rainfall trends, and make some recommendations in the building of artificial reservoirs as water catchment areas.
