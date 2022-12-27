@@ -29,28 +29,30 @@ The purpose of the study is to find out whether flu cases are more prevalent dur
 ---
 
 ## Techniques and methodology
-* Import and clean data
-  * check for null values
-  * convert datetime values from object to datetime format
-* Minor feature engineering
-  * group years into decades
-  * group months into seasons
-* Data Dictionary
-* EDA
-  * Which month have the highest and lowest total rainfall in 1990, 2000, 2010 and 2020?
-  * Which year have the highest and lowest total rainfall in the date range of analysis?
-  * Which month have the highest and lowest number of rainy days in 1990, 2000, 2010 and 2020?
-  * Which year have the highest and lowest number of rainy days in the date range of analysis?
-  * Are there any outliers months in the dataset?
-  * TO BE ADDED
-* Data visualizations on matplotlib and seaborn
-  * TO BE ADDED
-
+1. Import and clean data
+    * check for null values
+    * convert datetime values from object to datetime format
+2. Minor feature engineering
+    * group years into decades
+    * group months into seasons
+3. Data Dictionary
+4. EDA
+    * Which month have the highest and lowest total rainfall in 1990, 2000, 2010 and 2020?
+    * Which year have the highest and lowest total rainfall in the date range of analysis?
+    * Which month have the highest and lowest number of rainy days in 1990, 2000, 2010 and 2020?
+    * Which year have the highest and lowest number of rainy days in the date range of analysis?
+    * Are there any outliers months in the dataset?
+    * If there are outliers, how many datapoints/occurences are there throughout the trends?
+      *  Aided with the box-and-whiskers plots
+5. Data visualizations on matplotlib and seaborn
+    * Plot the histogram of the rainfall data with various bins and comment on the distribution of the data - is it centered, skewed?
+    * Is there a correlation between the number of rainy days and total rainfall in the month? What kind of correlation do your suspect? Does the graph show the same?
+    * (to be continued) Rainfall across all 
 ---
 
 ## Conclusion and recommendation
 
-
+tbd
 
 ---
 
