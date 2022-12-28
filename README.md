@@ -6,10 +6,23 @@ This is the first graded project, as part of the General Assembly Data Science I
 
 ## Problem Statement
 
-In the recent years, Covid-19 has been the focus of our lives. Besides the normal hygeniene precautions, we have been asked to be more vigilant during the rainy season to prepare for the spike in cases. How true would that be? We will find out
+**Aim: To find out if rainy seasons has a correlation with the number of flu cases in Singapore**
 
-The purpose of the study is to find out whether flu cases are more prevalent during rainy seasons.The inspiration of the study is derived from [this article.](https://www.channelnewsasia.com/commentary/influenza-cold-sick-covid-vaccine-tripledemic-3133906)
+Flu season is an annually recurring time period characterized by the prevalence of an outbreak of influenza, and it is widely known to happen during colder seasons. Recently, there was a commentary in Singapore that has warned the public against the flu season ahead of the upcoming December holidays. 
 
+To quote the article: "In Singapore, we experience year-round circulation of influenza virus, with two prominent peaks from May to July and from December to February, coinciding with the rainy seasons."
+
+The aim of the study is to study the variations of Singapore's rainfall, and whether this will lead to a 'flu season'. We will be using the covid-19 cases as a proxy to measure flu cases.
+
+![image.png](attachment:641a5ce5-36bd-4e06-99f2-b558ffde0eea.png)
+    </br> source: Centres for Disease Control and Prevention, US
+
+**Findings**:
+1. Flu season in US typically happens from [Dec-Feb](https://www.cdc.gov/flu/about/season/flu-season.htm). US experiences [its coldest periods during Dec.](https://www.ncei.noaa.gov/news/coldest-day-of-the-year#:~:text=Most%20prominently%2C%20the%20portion%20of,its%20seasonal%20minimum%20in%20January.)
+
+2. Flu season in Australia typically happens from [May - Oct](https://www.health.gov.au/our-work/influenza-surveillance-program#annual-influenza-reports). Australia experiences [its coldest month in July](http://www.bom.gov.au/climate/updates/articles/a028.shtml)
+
+From these two examples, We can sense that the flu seasons typically happen during the countries' coldest periods
 ---
 
 ## Datasets
@@ -85,8 +98,18 @@ All datasets were obtained from [data.gov.sg](https://data.gov.sg).
 
 ## Conclusion and recommendation
 
-tbd
+**Conclusion:** Singapore has a pretty stable weather conditions, with a gradual increase of total rainfall per month in the recent decades. The number of rainy days is roughly 14 days, and the temperature is roughly 27 degree celcius. The Northeast Monsoon season (Dec-Feb) often has the highest amount of rainfall and maximum amount of rainfall. Singapore also has a pretty stable relative humidity as well.
 
+Having said that, there is still a slight variation in total rainfall, number of rainy days, temperature, and humidity. Rise in flu cases usually happens after the Northeast Monsoon season, which has the most amount of rain and rainy days.
+
+**Key takeaways / recommendations:** 
+1. Are the cases always increasing during the rainy seasons? 
+    * From the analysis, it is not that conclusive as the data is not so complete
+    * Flu cases are might be more affected by other factors, such as the country's policies of opening up, personal lifestyle and hygiene, as well as immunity. 
+    * Also, most of the festive seasons important to Singaporeans such as Christmas, New Year, and Chinese New Year happens during this period.
+    * There might be scenarios of under-reported cases after the government's opening up policies, where individuals do not have to declare their status if they are not tested positive in a medical establishment
+2. There is a potential for deeper analysis with the suitable data, i.e.: immunity rate in Singapor
+3. Although the positive correlation is minimal, we should take the necessary precautions as we live with covid.
 ---
 
 ## Libraries
