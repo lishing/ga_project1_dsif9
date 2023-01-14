@@ -14,7 +14,7 @@ To quote the article: "In Singapore, we experience year-round circulation of inf
 
 The aim of the study is to study the variations of Singapore's rainfall, and whether this will lead to a 'flu season'. We will be using the covid-19 cases as a proxy to measure flu cases.
 
-![image.png](attachment:641a5ce5-36bd-4e06-99f2-b558ffde0eea.png)
+![flu-peak-activity-2021-2022](https://user-images.githubusercontent.com/17240005/212446653-6e9d3491-5ceb-442a-85c5-3819af1940da.jpeg)
     </br> source: Centres for Disease Control and Prevention, US
 
 **Findings**:
